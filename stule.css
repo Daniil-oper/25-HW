@@ -1,0 +1,25 @@
+.box{
+/* position: relative; */
+}
+
+.box-1{
+width: 150px;
+height: 150px;
+background-color: red;
+}
+.box-2{
+width: 150px;
+height: 150px;
+background-color: red;
+}
+.box-3{
+width: 150px;
+height: 150px;
+background-color: red;
+}
+.word{
+position: relative;
+}
+
+
+
