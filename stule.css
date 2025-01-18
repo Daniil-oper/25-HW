@@ -1,24 +1,39 @@
 .box{
-/* position: relative; */
+width: 100%;
+height: 750px;
 }
 
 .box-1{
 width: 150px;
 height: 150px;
 background-color: red;
+position: absolute;
+top: 0;
+left: 0;
+z-index: 1;
 }
 .box-2{
 width: 150px;
 height: 150px;
-background-color: red;
+background-color: blue;
+position: absolute;
+top: 50px;
+left: 50px;
+z-index: 3;
 }
 .box-3{
 width: 150px;
 height: 150px;
-background-color: red;
+background-color: green;
+position: absolute;
+top: 100px;
+left: 100px;
+z-index: 2;
 }
 .word{
 position: relative;
+width: 200px; 
+height: 200px;
 }
 
 
